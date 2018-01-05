@@ -1,0 +1,10 @@
+{namespace dl = DasLampe\AfResponsiveImages\ViewHelper}
+
+<div id="afLightboxGallery" class="row small-up-1 medium-up-2 large-up-3">
+    <f:for each="{images}" as="image">
+        <div class="column">
+            <a href="{image.publicUrl}" data-fancybox="gallery">
+                <dl:image image="{image}" />
+        </a></div>
+    </f:for>
+</div>

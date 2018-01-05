@@ -1,0 +1,28 @@
+<T3DataStructure>
+	<meta type="array">
+		<langDisable>1</langDisable>
+	</meta>
+	<sheets>
+		<sDEF>
+		<ROOT>
+			<TCEforms>
+				<sheetTitle>LLL:EXT:af_lightbox/Resources/Private/Language/locallang_db.xml:tx_af_lightbox_gallery.sheet_1</sheetTitle>
+			</TCEforms>
+			<type>array</type>
+			<el>
+				<settings.gallery.flexform.folderPath>
+					<TCEforms>
+						<label>LLL:EXT:af_lightbox/Resources/Private/Language/locallang_db.xml:tx_af_lightbox_gallery.folderPath</label>
+						<config>
+							<type>group</type>
+			        	    <internal_type>folder</internal_type>
+			            	<maxitems>1</maxitems>
+			          	  	<size>1</size>
+		      			</config>
+					</TCEforms>
+				</settings.gallery.flexform.folderPath>
+			</el>
+		</ROOT>
+		</sDEF>
+	</sheets>
+</T3DataStructure>

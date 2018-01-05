@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2017-08-18T20:16:46Z" product-name="af_lightbox">
+		<header/>
+		<body>
+			<trans-unit id="tx_aflightbox_gallery.sheet_1">
+				<source>Plugin Settings</source>
+			</trans-unit>
+			<trans-unit id="tx_aflightbox_gallery.folderPath">
+				<source>Path</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

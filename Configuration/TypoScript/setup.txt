@@ -1,0 +1,3 @@
+page.includeJS.afLightboxFancyboxJs = EXT:af_lightbox/Resources/Public/js/fancybox/dist/jquery.fancybox.min.js
+page.includeCSS.afLightboxCss = EXT:af_lightbox/Resources/Public/css/style.css
+page.includeCSS.afLightboxFancyboxCss = EXT:af_lightbox/Resources/Public/js/fancybox/dist/jquery.fancybox.min.css

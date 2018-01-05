@@ -1,0 +1,33 @@
+{
+	"name": "daslampe/af-lightbox",
+	"type": "typo3-cms-extension",
+	"description" : "Typo3 Plugin to create Imagegallery with lightboxes",
+	"homepage": "https://github.com/DasLampe/typo3.plugins.af_lightbox",
+	"authors": [
+		{
+			"name": "Andre Flemming",
+			"email": "daslampe@lano-crew.org",
+			"homepage": "https://daslampe.lano-crew.org",
+			"role": "Developer"
+		}
+	],
+	"license": ["GPL-3.0+"],
+	"keywords": ["TYPO3 CMS", "Image Gallery", "Lightbox", "Frontend"],
+	"support": {
+		"issues": "https://github.com/DasLampe/typo3.plugins.af_lightbox/issues"
+	},
+	"version": "1.0.0",
+	"require": {
+		"typo3/cms": "^7.6.0",
+		"daslampe/af-responsive-images": "1.0.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"DasLampe\\AfLightbox\\": "Classes/"
+		}
+	},
+	"replace": {
+		"daslampe/af-lightbox": "self.version",
+		"af_lightbox": "self.version"
+	}
+}
